@@ -1,0 +1,15 @@
+This course will serve as a basic introduction to the field of parallel computing. Emphasis will be on the fundamental 
+principles for parallel algorithm design and analysis, and parallel programming for distributed and shared memory parallel 
+machines. Topics to be covered (not necessarily in order) include (but not limited to):
+
+1. Fundamentals in parallel algorithm design and analysis
+2. Parallel computation models
+3. Network intraconnects and embeddings
+4. MPI programming
+5. OpenMP shared memory multicore programming
+6. Parallel reduction operations
+7. Parallel prefix
+8. Sorting
+9. Matrix operations
+10. Parallel scientific computing applications
+11. MapReduce and cloud computing
